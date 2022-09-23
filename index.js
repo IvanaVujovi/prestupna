@@ -34,13 +34,13 @@
   //console.log("Jednaki su.")
 //};
 
-let a=prompt("unesi godinu");
-if(a%4!=0){
-  console.log(a+" nije prestupna.")
-}else if(a%100!=0){
-  console.log(a+" je prestupna.")
-}else if(a%400!=0){
-  console.log(a+" nije prestupna.")
-}else{
-console.log(a+" je prestupna.")
-}
+//let a=prompt("unesi godinu");
+//if(a%4!=0){
+  //console.log(a+" nije prestupna.")
+//}else if(a%100!=0){
+  //console.log(a+" je prestupna.")
+//}else if(a%400!=0){
+  //console.log(a+" nije prestupna.")
+//}else{
+//console.log(a+" je prestupna.")
+//};
